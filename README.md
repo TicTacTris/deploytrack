@@ -28,4 +28,4 @@ configuration must not be committed to the repository.
 
 ## Status
 
-Repository foundation is in progress.
+Repository foundation is complete.
